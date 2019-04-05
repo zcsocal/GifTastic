@@ -1,3 +1,3 @@
 # GifTastic
 
-https://zcsocal.github.io/GifTastic/
+https://zcsocal.github.io/giftastic/
